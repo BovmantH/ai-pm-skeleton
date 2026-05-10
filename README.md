@@ -1,6 +1,6 @@
 # AI 项目管理骨架（ai-pm-skeleton）
 
-> **语言 / Language:** **中文** ｜ [English](README.en.md)
+[English](README.en.md) | **简体中文**
 
 一套**工具无关**的项目管理规则骨架，用于让 Claude Code / Codex / Gemini 等 AI 编程助手按统一约定管理你所有的项目（寻址、初始化、索引、模板、红线）。
 
