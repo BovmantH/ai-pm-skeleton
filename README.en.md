@@ -1,6 +1,6 @@
 # AI Project Management Skeleton (ai-pm-skeleton)
 
-**English** | [简体中文](README.md)
+English | [简体中文](README.md)
 
 A **tool-agnostic** project management rule skeleton for AI coding assistants (Claude Code / Codex / Gemini) to manage all your projects under unified conventions (addressing, initialization, indexing, templates, red lines).
 
