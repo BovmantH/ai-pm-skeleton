@@ -1,0 +1,32 @@
+# ─── 本机专属/不应同步的文件 ──────────────────────────────
+# PROJECTS_LOCAL.md 仅限本机,登记的是本机绝对路径下的外部项目
+# 入库的是 PROJECTS_LOCAL.md.example,首次使用请 cp 一份
+Project/PROJECTS_LOCAL.md
+
+# ─── 操作系统垃圾 ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+
+# ─── 编辑器/IDE ────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ─── AI 工具本地状态(防止误入库) ─────────────────────────
+.claude/
+.cursor/
+.cursorrules
+.aider*
+.gemini/
+
+# ─── 日志/临时 ─────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
